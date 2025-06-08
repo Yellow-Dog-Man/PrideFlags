@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 6 6">
+  <mask id="h">
+    <path fill="#fff" d="M0 6 3 0 6 6H4L3 4 2 6" />
+  </mask>
+  <mask id="m">
+    <rect width="6" height="6" fill="#fff" rx="1.3875" />
+  </mask>
+  <g mask="url(#m)" transform="scale(0.97)" transform-origin="center">
+    <rect width="6" height="6" fill="#ffffff" />
+    <rect width="6" height="5" fill="#000000" />
+    <rect width="6" height="4" fill="#ffffff" />
+    <rect width="6" height="3" fill="#000000" />
+    <rect width="6" height="2" fill="#ffffff" />
+    <rect width="6" height="1" fill="#000000" />
+    <g mask="url(#h)" transform="scale(1.5 1) translate(-1 0)">
+      <rect width="6" height="6" fill="#9900cc" />
+      <rect width="6" height="5" fill="#3333ff" />
+      <rect width="6" height="4" fill="#008033" />
+      <rect width="6" height="3" fill="#ffff00" />
+      <rect width="6" height="2" fill="#ff8000" />
+      <rect width="6" height="1" fill="#ff0000" />
+    </g>
+  </g>
+</svg>
