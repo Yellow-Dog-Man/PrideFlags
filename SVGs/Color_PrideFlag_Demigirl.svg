@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 7 7">
+  <mask id="m">
+    <rect width="7" height="7" fill="#fff" rx="1.61875" />
+  </mask>
+  <g mask="url(#m)" transform="scale(0.97)" transform-origin="center">
+    <rect width="7" height="7" fill="#7f7f7f" />
+    <rect width="7" height="6" fill="#c3c3c3" />
+    <rect width="7" height="5" fill="#ffaec9" />
+    <rect width="7" height="4" fill="#ffffff" />
+    <rect width="7" height="3" fill="#ffaec9" />
+    <rect width="7" height="2" fill="#c3c3c3" />
+    <rect width="7" height="1" fill="#7f7f7f" />
+  </g>
+</svg>
