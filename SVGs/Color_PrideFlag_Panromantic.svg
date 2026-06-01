@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 3 3">
+  <mask id="heart">
+    <path d="m0 45.7769c.0978 0 33.3106-22.9743 45.9942-47.4176 13.8513-26.6937-5.9942-44.1361-22.6223-44.1361-17.3719 0-23.3393 15.8638-23.3719 15.8638-.0326 0-6-15.8638-23.3719-15.8638-16.6281 0-36.4736 17.4424-22.6223 44.1361 12.6836 24.4433 45.8964 47.4176 45.9942 47.4176z" fill="#fff" />
+  </mask>
+  <mask id="m">
+    <rect width="3" height="3" fill="#fff" rx="0.69375" />
+  </mask>
+  <g mask="url(#m)" transform="scale(0.97)" transform-origin="center">
+    <rect width="4" height="3" fill="#90d8ff" />
+    <rect width="4" height="2" fill="#feec80" />
+    <rect width="4" height="1" fill="#ff90c5" />
+    <g mask="url(#heart)" transform="translate(1.5 1.525)scale(0.025)">
+      <g transform="scale(40)translate(-2.55 -2.525)">
+        <rect width="4" height="4" fill="#22b1ff" />
+        <rect width="4" height="3" fill="#ffd800" />
+        <rect width="4" height="2" fill="#ff228c" />
+      </g>
+    </g>
+  </g>
+</svg>
