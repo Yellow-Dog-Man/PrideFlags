@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 3 3">
+  <mask id="m">
+    <rect width="3" height="3" fill="#fff" rx="0.69375" />
+  </mask>
+  <g mask="url(#m)" transform="scale(0.97)" transform-origin="center">
+    <rect width="3" height="3" fill="#593c8f" />
+    <rect width="3" height="2" fill="#ffffff" />
+    <rect width="3" height="1" fill="#167a49" />
+
+    <g transform="scale(1.25)translate(0 -0.05)" transform-origin="center" >
+        <circle cx="1.5" cy="1.582" fill="#fff" r="1"/>
+        <path
+            d="M1.0106 1.1906l1.1003.5299H.8897L1.99 1.1906l-.7614.9548L1.5003.9548 1.772 2.1454ZM1.5046.744.7657 2.0208H2.2405Z Z"
+            fill="none" stroke="#000" stroke-width="0.0889695" />
+        <circle
+            cx="1.5" cy="1.5861"
+            fill="none" stroke="#000" stroke-width="0.0928378" r="0.63632548" />
+    </g>
+  </g>
+</svg>
