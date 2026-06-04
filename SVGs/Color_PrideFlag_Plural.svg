@@ -1,0 +1,34 @@
+<svg width="128" height="128" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_3_85" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="16" y="16" width="992" height="992">
+<path d="M778.6 16H245.4C118.706 16 16 118.706 16 245.4V778.6C16 905.294 118.706 1008 245.4 1008H778.6C905.294 1008 1008 905.294 1008 778.6V245.4C1008 118.706 905.294 16 778.6 16Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_3_85)">
+<rect x="-314.667" y="16" width="1653.33" height="198.4" fill="#9640C0"/>
+<rect x="-314.667" y="214.4" width="1653.33" height="198.4" fill="#FDA2FF"/>
+<rect x="-314.667" y="412.8" width="1653.33" height="198.4" fill="#FDFEB8"/>
+<rect x="-314.667" y="611.2" width="1653.33" height="198.4" fill="#68CCCB"/>
+<rect x="-314.667" y="809.6" width="1653.33" height="198.4" fill="#2E5F86"/>
+<g style="mix-blend-mode:hard-light">
+<circle cx="512" cy="380.56" r="219.067" fill="#EEF2E5"/>
+<circle cx="512" cy="643.44" r="219.067" fill="#EEF2E5"/>
+</g>
+<circle cx="643.44" cy="512" r="219.067" fill="#EEF2E5"/>
+<circle cx="380.56" cy="512" r="219.067" fill="#EEF2E5"/>
+<g style="mix-blend-mode:hard-light">
+<circle cx="512" cy="380.56" r="219.067" fill="#B2AC41"/>
+</g>
+<g style="mix-blend-mode:hard-light">
+<circle cx="380.56" cy="512" r="219.067" fill="#56DE66"/>
+</g>
+<g style="mix-blend-mode:hard-light">
+<circle cx="643.44" cy="512" r="219.067" fill="#CE5598"/>
+</g>
+<g style="mix-blend-mode:hard-light">
+<circle cx="512" cy="643.44" r="219.067" fill="#565CAD"/>
+</g>
+<circle cx="512" cy="380.56" r="234.067" stroke="#2A2A2A" stroke-width="30"/>
+<circle cx="512" cy="643.44" r="234.067" stroke="#2A2A2A" stroke-width="30"/>
+<circle cx="643.44" cy="512" r="234.067" stroke="#2A2A2A" stroke-width="30"/>
+<circle cx="380.56" cy="512" r="234.067" stroke="#2A2A2A" stroke-width="30"/>
+</g>
+</svg>
