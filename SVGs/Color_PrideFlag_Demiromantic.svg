@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 15 15">
+  <mask id="m">
+    <rect width="15" height="15" fill="#fff" rx="3.46875" />
+  </mask>
+  <g mask="url(#m)" transform="scale(0.97)" transform-origin="center">
+    <rect width="15" height="15" fill="#d3d3d3" />
+    <rect width="15" height="8.75" fill="#5FAC5F" />
+    <rect width="15" height="6.25" fill="#f9f9f9" />
+    <path d="M5 7.5 0 3.8v7.5Z" fill="#010101" />
+  </g>
+</svg>
